@@ -1,5 +1,6 @@
 # Google Play Store Apps Performance Dashboard | Power BI
-
+## code file
+[View code file](https://colab.research.google.com/drive/1sk1qBpDl7xb1sKeNVaxgaFe9pCWnhUky)
 ## Project Overview
 This project presents an interactive and business-oriented Power BI dashboard developed using the Google Play Store dataset. The dashboard provides detailed insights into app performance, user engagement, installs, reviews, ratings, pricing models, and category-wise trends.
 
