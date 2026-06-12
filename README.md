@@ -1,4 +1,4 @@
-# Google Play Store Apps Performance Dashboard | Power BI
+# Google Play Store Performance Dashboard | Power BI
 ## code file
 [View code file](https://colab.research.google.com/drive/1sk1qBpDl7xb1sKeNVaxgaFe9pCWnhUky)
 ## Project Overview
